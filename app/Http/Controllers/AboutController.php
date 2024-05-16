@@ -9,8 +9,8 @@ class AboutController extends Controller
     public function index()
     {
         return view('about', [
-            'nama' => 'Daris Dwi Putra',
-            'nim' => '0110123104',
+            'nama' => 'Salsabilah Nurul Azkyah Tambunan',
+            'nim' => '0110123101',
             'programStudi' => 'Sistem Informasi',
             'tahunAngkatan' => '2023'
         ]);
